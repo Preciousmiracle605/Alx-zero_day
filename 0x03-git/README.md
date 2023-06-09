@@ -1,1 +1,1 @@
-zero learning day
+my first directory readme
